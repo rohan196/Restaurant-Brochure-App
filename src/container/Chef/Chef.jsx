@@ -16,9 +16,9 @@ const Chef = () => (
       <div className="app__chef-content">
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote_image" />
-          <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .</p>
+          <p className="p__opensans">Crafting Culinary Experiences: A Journey Through Flavor and Passion</p>
         </div>
-        <p className="p__opensans"> auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit. Nulla scelerisque scelerisque congue ac consequat, aliquam molestie lectus eu. Congue iaculis integer curabitur semper sit nunc. </p>
+        <p className="p__opensans"> At Géricht, we believe in more than just cooking—we believe in crafting experiences. Every dish is a reflection of passion, creativity, and dedication to excellence. My goal has always been to bring joy to the table, where flavors tell stories and every bite lingers in memory.</p>
       </div>
 
       <div className="app__chef-sign">
